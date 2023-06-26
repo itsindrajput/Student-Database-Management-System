@@ -27,4 +27,5 @@ Enjoy managing the student database using this application!
 - Compile the source code using a C compiler with the appropriate graphics library support. For example, using GCC:
 gcc PROJECT.c
 
-
+# Demo Video
+https://github.com/itsindrajput/Student-Database-Management-System/assets/70815899/091c759b-2b67-4e90-a567-cfca1cca0ef8
