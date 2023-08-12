@@ -28,8 +28,8 @@ Follow the on-screen instructions to perform various operations like adding, del
 Enjoy managing the student database using this application!
 - Clone this repository to your local machine using the following command:
   ```
- https://github.com/itsindrajput/Student-Database-Management-System.git
- ```
+   https://github.com/itsindrajput/Student-Database-Management-System.git
+   ```
 - Ensure that you have the required dependencies mentioned in the Requirements section.
 - Compile the source code using a C compiler with the appropriate graphics library support. For example, using GCC:
 gcc PROJECT.c
